@@ -198,7 +198,10 @@ Constellation: Ophiuchus
 Right Ascension: 17h 57m 48.5s
 Declination: +04 degrees 41’ 36’’
 Distance from Earth: 5.96 light years
-Distance from Sun:
+Distance from Sun: 5.96 light years
+Galactic coordinates:
+Longitude: 31.01 degrees
+Latitude: +14.06 degrees
 
 Proper motion:
 Holds the record for highest known proper motion of any star, moves at roughly 10.39 arcseconds per year.
