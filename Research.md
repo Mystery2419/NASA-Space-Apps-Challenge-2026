@@ -19,13 +19,13 @@ Core scientific goals:
 
 R Draconis:
 About:
-It is an old red giant star that is located in the northern circumpolar constellation Draco, it is also known as a Mira-type pulsating star. The outer layers of the star begin to swell and contract drastically every eight months, this changes the brightness of the star for a long period of time. The star ran out of the hydrogen and helium in its core, so now it is inert oxygen and carbon, and fuses them in the shells around the core, which expands the star into a red giant. The surface temperature of the star is between 2400K-3700K, in comparison to the Sun being between 5,772-5,778K. The cool temperature gives the star a deep orange-red glow.
+It is an old red giant star that is located in the  constellation Draco, it is also known as a Mira-variable pulsating star. The outer layers of the star begin to expand and contract by extreme anmounts every eight months, this changes the brightness of the star for a long period of time. The star ran out of the hydrogen and helium in its core, so now it is neutral oxygen and carbon, and fuses them in the shells around the core, which enlarges the star into a red giant. The surface temperature of the star is between 2400K-3700K, in comparison to the Sun being between 5,772-5,778K. The cool temperature gives the star a deep orange-red glow.
 
 Strong stellar winds and pulsations will strip the outer gas layers of the star into space, this will form a glowing planetary nebula. The star will be left as a dense white dwarf core.
-The star has a pulsation period, taking around 245 days to complete one full contraction and expansion per cycle.
-The brightness of R Draconis is not fixed, the maximum brightness is ~7.5 and minimum being between 11.3 and 13.0. The brightness changes as Titanium oxide on the outer layer of the atmosphere blocks visible red light, so visual brightness decreases while infrared is more stable.
+These kinds of stars have a pulsation period (information is for this specific star), taking around 245 days to complete one full contraction and expansion per cycle.
+The brightness of R Draconis is not fixed due to the stellar winds, so we can try and assume the maximum brightness is ~7.5 and minimum being between 11.3 and 13.0. The brightness changes as Titanium oxide on the outer layer of the atmosphere blocks visible red light, so visual brightness decreases while infrared is more stable.
 Mira variables are usually under two solar masses. R Draconis started out as a star larger than our Sun, however strong stellar winds have shed the outer layers of the star into space.
-The luminosity is thousands of times more luminous than the Sun. It emits most of its energy as visible infrared heat rather than visible light, the total energy output is thousands times brighter than the Sun.
+The luminosity is thousands of times more luminous than the Sun. It emits most of its energy as infrared radiation rather than visible light, the total energy output is thousands times brighter than the Sun.
 By using Wien’s law and R Draconis’ cool temperatures, we can predict the peak energy output into the near-infrared. R Draconis is observed in infrared bands, for example: 2MASS, IRAS and WISE. They allow astronomers to capture the true bolometric luminosity. Luminosity depends on distance, but while distance may not be certain, we cannot accurately give the values for luminosity.
 
 How the pulsation works briefly: Partial ionisation of hydrogen makes the layer more opaque, trapping heat. The surface that traps heat, and builds up pressure and radiation underneath the layer, which eventually means the pressure overcomes the gravitational forces, pushing the atmosphere of the star outwards, the radius of the star will increase. The gas will expand and cool, electrons will combine with atoms. When electrons combine, this makes the gas more transparent and therefore heat escapes causing a pressure drop. And the cycle will repeat.
@@ -81,7 +81,7 @@ V: Main sequence stars
 
 Special letters (for example “e”)
 
-Lowercase letters at the end show unusual features in the star’s light spectrum. So the “e” is for emission lines, so the star has a glowing gas around it. The bright emission lines in this case are formed from the superheated surrounding hydrogen gas. This is formed by the outward pulse sending shockwaves that crash into the thin upper atmosphere of the star, superheating hydrogen.
+These are lowercase letters at the end, they show unusual things. So the “e” is for emission lines, so the star has a glowing gas around it. The bright emission lines in this case are formed from the superheated surrounding hydrogen gas. This is formed by the outward pulse sending shockwaves that crash into the thin upper atmosphere of the star, superheating hydrogen.
 
 Proper motion:
 
@@ -89,7 +89,7 @@ Distance from Earth is approx. 2,509 light years.(however conflicted with Gaia, 
 
 Distance from Sun is approx. 2,509 light years, the astronomical unit (AU) is so big that the distance is almost identical, the difference between the Sun and the Earth is 1 AU.
 
-Parallax has a larger uncertainty than fixed stars due to the large size and shifting outer atmosphere which changes the star’s brightness over a 245 day cycle. R Draconis is a pulsating Mira variable which will be discussed later. The parallax (π) is roughly 1.30 milliarcseconds (mas).
+Parallax has a larger uncertainty than fixed stars due to the large size and shifting outer atmosphere which changes the star’s brightness over a 245 day cycle. R Draconis is a pulsating Mira variable. The parallax (π) is roughly 1.30 milliarcseconds (mas).
 
 Right Ascension (mu_alpha cos(delta)): -20.68 +- 0.66 mas/yr, which means it is moving in the west direction across the sky.
 
@@ -98,13 +98,13 @@ Declination (mu_delta): +7.07 +- 0.63 mas/yr, moving in the north direction
 
 The total proper motion is approximately 21.85 mas/yr overall. Meaning it will take R Draconis around 46 years to shift across the sky by the width of an arcsecond.
 
-Mira-type variable star that has a change in brightness and sheds mass, causes it to be an ideal target to calibrate infrared brightness variability and studying how dying stars enrich space with dust and molecules.
+Useful because: Mira-type variable star that has a change in brightness and sheds mass, causes it to be an ideal target to calibrate infrared brightness variability and studying how dying stars enrich space with dust and molecules.
 
 
 
 Epsilon Indi B: (Epoch J2000.0 ICRS)
 
-It is a binary brown dwarf system that orbits the primary star Epsilon Indi A, containing Epsilon Indi Ba and Epsilon Indi Bb.
+A binary brown dwarf system that orbits the primary star Epsilon Indi A, containing Epsilon Indi Ba and Epsilon Indi Bb.
 A binary brown dwarf system is where a pair of brown dwarfs orbit a common centre of mass (barycentre). Binary brown dwarfs are formed via gravitational collapse and fragmentation of a gas cloud. They do not undergo hydrogen fusion due to a lack of mass to generate extreme core temperatures and pressures needed to form helium from hydrogen. Because of this, they are very cool and dim, so don’t glow in visible light but mostly in infrared light. Brown dwarfs can be classified into different spectral types: M,L,T and Y.
 
 M-type: 2,400-3,700K this is where the youngest and largest brown dwarfs start. The temperature is for M dwarfs in general, only the cool-end applies to brown dwarfs.
@@ -260,7 +260,7 @@ RWAA: ~25.07 mas/yr
 
 A/B labels may be unconfirmed and A’s Gaia solutions are poor.
 
-Being a relatively young binary star system and accreting actively, we  can demonstrate how stellar encounters and magnetic fields shape planet-forming gas and dust.
+Useful because: Being a relatively young binary star system and accreting actively, we  can demonstrate how stellar encounters and magnetic fields shape planet-forming gas and dust.
 
 
 
