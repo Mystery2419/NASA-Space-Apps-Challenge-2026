@@ -98,6 +98,7 @@ Declination (mu_delta): +7.07 +- 0.63 mas/yr, moving in the north direction
 
 The total proper motion is approximately 21.85 mas/yr overall. Meaning it will take R Draconis around 46 years to shift across the sky by the width of an arcsecond.
 
+Mira-type variable star that has a change in brightness and sheds mass, causes it to be an ideal target to calibrate infrared brightness variability and studying how dying stars enrich space with dust and molecules.
 
 
 
@@ -193,6 +194,8 @@ If e is closer to 0 then nearly round
 
 If e is closer to 1 then long ellipse, flat and oval-shaped.
 
+Useful because: It is one of the nearest brown dwarf pairs to Earth, with well-constrained masses and orbits. Testing evolutionary model of substellar objects and methane-rich environments can be done as the orbits and masses make it an excellent target.
+
 
 
 
@@ -257,6 +260,8 @@ RWAA: ~25.07 mas/yr
 
 A/B labels may be unconfirmed and A’s Gaia solutions are poor.
 
+Being a relatively young binary star system and accreting actively, we  can demonstrate how stellar encounters and magnetic fields shape planet-forming gas and dust.
+
 
 
 
@@ -298,6 +303,8 @@ It is the coldest known brown dwarf in the universe, drifting freely through spa
 Mass: 3.4-4.3 Jupiter masses or 0.0029 to 0.0095 solar masses
 Brown dwarfs form like stars, from collapsing clouds, but WISE 0855 doesn’t have enough mass for fusion in its core, so is called a ‘failed star’. It glows slightly in mid-infrared heat but completely invisible to the human eye.
 The luminosity is very low: 6.03x10^-8 luminosity of the Sun, because there is no nuclear fusion and very small temperatures, it emits negligible visible light and radiates almost all of its energy as faint mid-infrared heat.
+
+WISE 0855: It is the coldest known brown dwarf, making it an ideal demonstration target for the detection of ice and water due to its low temperatures, it is also good for studying the chemistry of gas giant-like worlds outside our solar system.
 
 
 
