@@ -1,3 +1,17 @@
+SphereX Mission targets:
+-More than 450 million galaxies: Maps the universe in 3D, scans the entire sky 4 times to create a comprehensive 3D map of 450 million+ galaxies
+-More than 100 million stars in the Milky Way: They are mostly used as background light to detect any icy interstellar clouds in between the stars and Earth.
+-First near-infrared spectral all-sky survey- so it surveys the entire sky in different wavelengths - 102 infrared colour bands.
+-Intended to explore the history of the universe - including the history of galaxies and, interestingly, water on planets
+-Allows direct measurement of dark matter distribution using data from SphereX alongside the Euclid and the Nancy Grace Roman Telescope, proposal was submitted in 2014.
+
+Core scientific goals:
+1. Understand why the universe is expanding and how it grew so large in a fraction of a second after the Big Bang. Done by measuring 3D positions and redshifts of hundreds of millions of galaxies, SphereX maps statistical patterns in how galaxies cluster. The patterns keep traces of any quantum fluctuations that happened during inflation, which help physicists rule out other theoretical models.
+2. Measure the total amount of light galaxies have produced since the first stars formed. SphereX measures fluctuations in the collective infrared glow of the sky. It can help determine how galaxies formed and evolved.
+3. Find where water and chemical building blocks of life are from, and how likely they are to be on other planets. Use absorption spectroscopy.
+
+
+
 R Draconis:
 About:
 It is an old red giant star that is located in the northern circumpolar constellation Draco, it is also known as a Mira-type pulsating star. The outer layers of the star begin to swell and contract drastically every eight months, this changes the brightness of the star for a long period of time. The star ran out of the hydrogen and helium in its core, so now it is inert oxygen and carbon, and fuses them in the shells around the core, which expands the star into a red giant. The surface temperature of the star is between 2400K-3700K, in comparison to the Sun being between 5,772-5,778K. The cool temperature gives the star a deep orange-red glow.
@@ -49,6 +63,8 @@ Parallax has a larger uncertainty than fixed stars due to the large size and shi
 Right Ascension (mu_alpha cos(delta)): -20.68 +- 0.66 mas/yr, which means it is moving in the west direction across the sky.
 Declination (mu_delta): +7.07 +- 0.63 mas/yr, moving in the north direction
 The total proper motion is approximately 21.85 mas/yr overall. Meaning it will take R Draconis around 46 years to shift across the sky by the width of an arcsecond.
+
+
 
 
 Epsilon Indi B: (Epoch J2000.0 ICRS)
@@ -106,6 +122,8 @@ If e is closer to 0 then nearly round
 If e is closer to 1 then long ellipse, flat and oval-shaped.
 
 
+
+
 RW Aurigae binary star system:
 Constellation: Auriga
 RWAB Right Ascension: 5h 07m 49.4562s
@@ -146,6 +164,8 @@ RWAA: ~25.07 mas/yr
 A/B labels may be unconfirmed and A’s Gaia solutions are poor.
 
 
+
+
 WISE 0855-0714
 Constellation: Hydra
 A constellation is an area in the night sky containing a group of stars that form a pattern and has set boundaries.
@@ -169,6 +189,8 @@ It is the coldest known brown dwarf in the universe, drifting freely through spa
 Mass: 3.4-4.3 Jupiter masses or 0.0029 to 0.0095 solar masses
 Brown dwarfs form like stars, from collapsing clouds, but WISE 0855 doesn’t have enough mass for fusion in its core, so is called a ‘failed star’. It glows slightly in mid-infrared heat but completely invisible to the human eye.
 The luminosity is very low: 6.03x10^-8 luminosity of the Sun, because there is no nuclear fusion and very small temperatures, it emits negligible visible light and radiates almost all of its energy as faint mid-infrared heat.
+
+
 
 
 Barnard’s star:
